@@ -1,0 +1,32 @@
+{
+  "name": "angular-bookstore",
+  "version": "1.0.0",
+  "description": "a bookstore demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoqianli/angular-bookstore.git"
+  },
+  "author": "chelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guoqianli/angular-bookstore/issues"
+  },
+  "homepage": "https://github.com/guoqianli/angular-bookstore#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-connect": "^3.2.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "jquery": "^2.2.2",
+    "sass": "^0.5.0"
+  }
+}
